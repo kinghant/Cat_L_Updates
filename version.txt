@@ -1,3 +1,2 @@
-1.1
+1.0
 https://github.com/kinghant/Cat_L_Updates/releases/download/v1.1/CAT_L_Update.zip
-Исправлено написание кнопки «Полный VPN (Разово)»
